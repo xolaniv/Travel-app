@@ -1,0 +1,25 @@
+.container {
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #282c34;
+    position: initial;
+    top: 8px;
+    
+    width: 780px;
+    height: 250px;
+    align-items: flex-start;
+  }
+.text {
+  top: 8px;
+  left: 16px;
+  text-align: left;
+  padding: 10px,10px,10px,10px;
+  margin-bottom: 10px;
+  font-size: small;
+}
+.bar-chart {
+
+}
+.map-text {
+  font-size: x-small;
+}

@@ -1,0 +1,58 @@
+.percentage {
+    color: lime;
+}
+.percentage-negetive {
+    color: red;
+}
+.image {
+    max-height: 100px;
+    max-width: 100px;
+    right: 10px;
+}
+.info-container {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #282c34;
+    position: relative;
+    left: 100px;
+    width: 345px;
+    text-align: left;
+    margin-bottom: 5px;
+
+}
+.info-container-one {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #282c34;
+    position:relative ;
+    left: 100px;
+    width: 345px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.info-container-two {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #282c34;
+    position:relative;
+    left: 100px;
+    width: 345px;
+    text-align: left;
+    display: flex;
+    margin-bottom: 5px;
+}
+.top-text {
+    text-align: left;
+}
+.middle-text {
+    font-size: large;
+}
+.icon {
+    position: absolute;
+    top: 25px;
+    right: 20px;
+    color: lightslategray
+}
+.compaign-text {
+    font-size: small;
+}

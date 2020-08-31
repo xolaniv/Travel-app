@@ -1,0 +1,47 @@
+.map-container {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #282c34;
+    position: relative;
+    bottom: 10px;
+    text-align: left;
+    margin-bottom: 5px;
+    
+}
+.map {
+    width: 20px;
+}
+.map-container-one {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #282c34;
+    position: relative;
+    bottom: 10px;
+    margin-bottom: 5px;
+    width: 1200px;
+    height: 300px;
+    left: 100px;
+    top: 10px;
+}
+.top-text {
+    text-align: left;
+    font-size: small;
+}
+.float-parent{
+    width: 70%;
+    float: left;
+}
+.float-child {
+    width: 30%;
+    float: left;
+}
+.map-element {
+    width: 500px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#world {
+    fill: rgba(56,43,168,0.6);
+  }

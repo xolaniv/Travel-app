@@ -1,0 +1,32 @@
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { faEnvelope,
+    faCalendar,
+    faHome,
+    faUser, 
+    faComments,
+    faShoppingCart,
+    faTasks,
+    faFile,
+    faCalendarCheck,
+    faRss,
+    faSignInAlt,
+    faAlignJustify,
+    faCube,
+    faShoppingBag, faUserFriends  } from '@fortawesome/free-solid-svg-icons'
+
+library.add(fab, 
+    faEnvelope,
+    faCalendar,
+    faHome,
+    faUser,
+    faComments,
+    faShoppingCart,
+    faTasks,
+    faFile,
+    faCalendarCheck,
+    faRss,
+    faSignInAlt, 
+    faAlignJustify, 
+    faCube, 
+    faShoppingBag,faUser,faUserFriends)

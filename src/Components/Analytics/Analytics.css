@@ -1,0 +1,22 @@
+.analytics {
+    background-color: #151b2b; 
+}
+
+.session-box {
+    display: inline-block;
+    align-content: right;
+    top: 10px;
+}
+.left-div {
+    float: left;
+}
+.right-div {
+    float: right;
+}
+.heading {
+    text-align: left;
+    color: white;
+    margin-left: 100px;
+    font-size: large;
+}
+
